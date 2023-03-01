@@ -1,7 +1,7 @@
 # hw-06
 hw-06 - Brushing and Linking
 
-Link to GitHub Pages: [https://ds4200-s23-class.github.io/hw-06-xi_chen/]（https://ds4200-s23-class.github.io/hw-06-xi_chen/）
+Link to GitHub Pages: [https://ds4200-s23-class.github.io/hw-06-xi_chen/](https://ds4200-s23-class.github.io/hw-06-xi_chen/)
 
 Clone this repo and work locally. Be sure to push the final version of your code (and any significant updates along the way) before submitting. To work locally, you will need to set up a Python Simple Server. Instructions for this are included below.  
 
