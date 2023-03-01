@@ -29,6 +29,7 @@ body {
   opacity: 1 !important;
   stroke: black;
   stroke-width: 2px;
+  fill-opacity: 1 !important;
 }
 
 .vis {
