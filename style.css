@@ -1,0 +1,40 @@
+body {
+	font: Arial;
+}
+
+#centered_header {
+	text-align: center;
+}
+
+.container {
+	display: flex;
+}
+
+#col_1 {
+	width: 33%;
+	float: left;
+}
+
+#col_2 {
+	width: 33%;
+	float: left;
+}
+
+#col_3 {
+	width: 33%;
+	float: left;
+}
+
+.selected {
+  opacity: 1 !important;
+  stroke: black;
+  stroke-width: 2px;
+}
+
+.vis {
+	text-align:center;
+}
+
+#ack {
+	text-align:center;
+}
