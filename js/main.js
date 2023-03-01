@@ -182,6 +182,7 @@ function build_scatter() {
 							.attr('height', function(d) { return VIS_HEIGHT - yScale3(d.Amount); })
 							.attr('fill', (d) => {return color(d.Species)})
 							.attr('id', (d) => {return d.Species})
+							.attr('fill-opacity', 0.5)
 							.attr('class', 'bar');
 
 		// add x-axis and y-axis
